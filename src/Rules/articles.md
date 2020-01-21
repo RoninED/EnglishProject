@@ -4,46 +4,14 @@
     - Water is an important resource. Uncountable
     - Vegetables are good for you. Plural countable  
 - Не используются с:
-    individual lakes
-    individual islands
-    beaches
-    waterfalls
-    individual mountains (except the Matterhorn)
-    canyons (except the Grand Canyon)
-    people's first names
-    streets (except the High Street)
-    public squares
-    hospitals
-    stadiums
-    malls
-    parks
-    churches
-    temples
-    universities
-    colleges
-    languages
-    religions
-    days
-    months
-    holidays
+    individual lakes / individual islands / beaches / waterfalls / individual mountains (except the Matterhorn) / canyons (except the Grand Canyon) / people's first names / streets (except the High Street) / public squares / hospitals / stadiums / malls / parks / churches / temples / universities / colleges / languages / religions / days / months / holidays
 - Не ставится, если перед существительным есть другие определители, а именно: притяжательные/указательные/неопределенные местоимениями, местоимения some – несколько, некоторые, any – какое-либо, какие-нибудь, сколько-нибудь, no – никакой, никакая, никакое, никакие, each – каждый (вu отдельности), every – всякий, любой, вопросительные слова whose – чей, которого, what – что, который, как, какой, which – каковой, который, кто, количественные числительные, если перед существительным стоит другое существительное в притяжательном падеже."
 - С названиями стран. Но the применяется с различными обьединениями типа: "States", "Kingdom", "Republic", "Emirates",
 - Обычно не используются с наименованиями болезней. Но есть исключения
-  -  cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
-  -  the measles / the flu / the mumps / the bubonic plague
+    cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
+    the measles / the flu / the mumps / the bubonic plague
 - Исключения expressions
-    at night
-    at noon
-    at midnight
-    all day
-    all night
-    all month
-    every month
-    every year
-    last night
-    last Friday
-    yesterday
-    tomorrow
+    at night / at noon / at midnight / all day / all night / all month / every month / every year / last night / last Friday / yesterday / tomorrow
 
 
 # a/an 
@@ -85,13 +53,4 @@ The grocery store is on the right
 - c описательными названиями групп людей "the blind", "the elderly", "the rich", "the French",
 - в устойчивых словосочетаниях: In the morning; in the evening; in the afternoon; to the cinema/ theatre; to the shop/ market; at the cinema/ the theatre; at the shop/ the market
 - С болезнями the measles / the flu / the mumps / the bubonic plague
-- Исключения expressions
-    in the morning
-    in the afternoon
-    in the evening
-    during the night
-    during the day
-    the day before yesterday
-    the day after tomorrow
-    the fall
-    the summer
+- Исключения expressions / in the morning / in the afternoon / in the evening / during the night / during the day / the day before yesterday / the day after tomorrow / the fall / the summer
