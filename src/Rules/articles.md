@@ -26,7 +26,7 @@
   - I have my English class twice a week
 - Перед обобщающими существительными в ед. числе (Кроме тех, перед которыми ставится The)
   - Wow, I can't believe how much a gallon of gas costs these days. If the price keeps going up, I'm going to buy an electric car.
-- Перед "a few" and "a little" в значении есть что немного когда ожидалось что совсем нет. Иначе: "a few" and "a little" в значении мало (когда ожидалось много) ипользуются без артиклей
+- Перед "a few" and "a little" в значении есть что немного когда ожидалось что совсем нет. Иначе: "few" and "little" в значении мало (когда ожидалось много) ипользуются без артиклей
 
 
 # the
