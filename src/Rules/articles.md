@@ -42,11 +42,11 @@
 - перед name countries like republic/kingdom/states countries with plural names(Philippines, USA, USSR)
 - перед порядковыми существительными "the first", "the second", "the third", "the next", "the last", "the previous", "the following", "the penultimate
 - перед прилагательными в превосходной степени "the best", "the biggest", "the most important", "the least interesting", etc.
-- С направлениями, если перед ними стоит какой либо предлог(preposition)
-We need to walk to the south
-We need to walk south
-The grocery store is on the right
-- со сторонами света : In the north; in the south; in the east; in the west
+- С направлениями, если перед ними стоит какой либо предлог (preposition)
+    We need to walk to the south
+    We need to walk south
+    The grocery store is on the right
+  - с частями света : In the north; in the south; in the east; in the west (главное разделить что есть направление а есть часть света)
 - в фамилией — если речь идет о всей семье — the Ivanovs — Ивановы
 - c описательными названиями групп людей "the blind", "the elderly", "the rich", "the French",
 - в устойчивых словосочетаниях: In the morning; in the evening; in the afternoon; to the cinema/ theatre; to the shop/ market; at the cinema/ the theatre; at the shop/ the market
