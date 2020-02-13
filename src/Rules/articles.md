@@ -3,10 +3,29 @@
 - С обобщающими сущиствительными во множественом числе
     - Water is an important resource. Uncountable
     - Vegetables are good for you. Plural countable  
-- Не используются с:
-    individual lakes / individual islands / beaches / waterfalls / individual mountains (except the Matterhorn) / canyons (except the Grand Canyon) / people's first names / streets (except the High Street) / public squares / hospitals / stadiums / malls / parks / churches / temples / universities / colleges / languages / religions / days / months / holidays
+- Не используются с названиями:
+    lakes 
+    islands
+    beaches
+    waterfalls
+    mountains (except the Matterhorn)
+    canyons (except the Grand Canyon)
+    people's first names / streets (except the High Street)
+    public squares
+    hospitals
+    stadiums
+    malls
+    parks
+    churches
+    temples
+    universities
+    colleges
+    languages
+    religions
+    days / months
+    holidays
+    Countries. Но the применяется с названиями во множественовом числе типа: "The Philippines", "The United States of America"
 - Не ставится, если перед существительным есть другие определители, а именно: притяжательные/указательные/неопределенные местоимениями, местоимения some – несколько, некоторые, any – какое-либо, какие-нибудь, сколько-нибудь, no – никакой, никакая, никакое, никакие, each – каждый (вu отдельности), every – всякий, любой, вопросительные слова whose – чей, которого, what – что, который, как, какой, which – каковой, который, кто, количественные числительные, если перед существительным стоит другое существительное в притяжательном падеже."
-- С названиями стран. Но the применяется с названиями во множественовом числе типа: "The Philippines", "The United States of America"
 - Обычно не используются с наименованиями болезней. Но есть исключения
     cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
     the measles / the flu / the mumps / the bubonic plague
