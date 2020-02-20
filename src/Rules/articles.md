@@ -4,31 +4,19 @@
     - Water is an important resource. Uncountable
     - Vegetables are good for you. Plural countable  
 - Не используются с названиями:
-    lakes 
-    islands
-    beaches
-    waterfalls
-    mountains (except the Matterhorn)
-    canyons (except the Grand Canyon)
+    lakes / islands / beaches / waterfalls / mountains (except the Matterhorn) / canyons (except the Grand Canyon)
     people's first names / streets (except the High Street)
-    public squares
-    hospitals
-    stadiums
-    malls
-    parks
-    churches
-    temples
-    universities
-    colleges
+    squares / hospitals / stadiums / malls / parks / churches / temples / universities / colleges
     languages
     religions
     days / months
     holidays
     Countries. Но the применяется с названиями во множественовом числе типа: "The Philippines", "The United States of America"
+    Diseases
+        Но есть исключения:
+            cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
+            the measles / the flu / the mumps / the bubonic plague
 - Не ставится, если перед существительным есть другие определители, а именно: притяжательные/указательные/неопределенные местоимениями, местоимения some – несколько, некоторые, any – какое-либо, какие-нибудь, сколько-нибудь, no – никакой, никакая, никакое, никакие, each – каждый (вu отдельности), every – всякий, любой, вопросительные слова whose – чей, которого, what – что, который, как, какой, which – каковой, который, кто, количественные числительные, если перед существительным стоит другое существительное в притяжательном падеже."
-- Обычно не используются с наименованиями болезней. Но есть исключения
-    cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
-    the measles / the flu / the mumps / the bubonic plague
 - Исключения expressions
     at night / at noon / at midnight / all day / all night / all month / every month / every year / last night / last Friday / yesterday / tomorrow
 
@@ -68,6 +56,6 @@
   - с частями света : In the north; in the south; in the east; in the west (главное разделить что есть направление а есть часть света)
 - в фамилией — если речь идет о всей семье — the Ivanovs — Ивановы
 - c описательными названиями групп людей "the blind", "the elderly", "the rich", "the French",
-- в устойчивых словосочетаниях: In the morning; in the evening; in the afternoon; to the cinema/ theatre; to the shop/ market; at the cinema/ the theatre; at the shop/ the market
 - С болезнями the measles / the flu / the mumps / the bubonic plague
 - Исключения expressions / in the morning / in the afternoon / in the evening / during the night / during the day / the day before yesterday / the day after tomorrow / the fall / the summer
+- в устойчивых словосочетаниях: In the morning; in the evening; in the afternoon; to the cinema/ theatre; to the shop/ market; at the cinema/ the theatre; at the shop/ the market
