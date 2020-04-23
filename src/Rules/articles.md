@@ -14,9 +14,15 @@
     Countries. Но the применяется с названиями во множественовом числе типа: "The Philippines", "The United States of America"
     Diseases
         Но есть исключения:
-            cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
-            the measles / the flu / the mumps / the bubonic plague
-- Не ставится, если перед существительным есть другие определители, а именно: притяжательные/указательные/неопределенные местоимениями, местоимения some – несколько, некоторые, any – какое-либо, какие-нибудь, сколько-нибудь, no – никакой, никакая, никакое, никакие, each – каждый (вu отдельности), every – всякий, любой, вопросительные слова whose – чей, которого, what – что, который, как, какой, which – каковой, который, кто, количественные числительные, если перед существительным стоит другое существительное в притяжательном падеже."
+            Общие правила: cold / heart attack / stroke / wart / tumor / growth / sore throat / sore back/ sore foot / headache / toothache / backache / 
+            С артиклем the: the measles / the flu / the mumps / the bubonic plague
+- Не ставится, если перед существительным есть другие определители, а именно: 
+    притяжательные/указательные/неопределенные местоимениями, 
+    местоимения some – несколько, некоторые, 
+    any – какое-либо, какие-нибудь, сколько-нибудь, no – никакой, никакая, никакое, никакие, each – каждый (вu отдельности), every – всякий, любой, 
+    вопросительные слова whose – чей, которого, what – что, который, как, какой, which – каковой, который, кто, 
+    количественные числительные, 
+    если перед существительным стоит другое существительное в притяжательном падеже."
 - Исключения expressions
     at night / at noon / at midnight / all day / all night / all month / every month / every year / last night / last Friday / last week / yesterday / tomorrow
 
