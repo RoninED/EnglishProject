@@ -4,9 +4,9 @@
     - Water is an important resource. Uncountable
     - Vegetables are good for you. Plural countable  
 - Не используются с названиями:
-    lakes / islands / beaches / waterfalls / mountains (except the Matterhorn) / canyons (except the Grand Canyon)
-    people's first names / streets (except the High Street)
-    squares / hospitals / stadiums / malls / parks / churches / temples / universities / colleges
+    lakes / islands / beaches / waterfalls / mountains (except the Matterhorn) / canyons (except the Grand Canyon) / bay
+    people's first names / 
+    streets (except the High Street) / squares / hospitals / stadiums / malls / parks / churches / temples / universities / colleges
     languages
     religions
     days / months
