@@ -22,7 +22,6 @@
     any – какое-либо, какие-нибудь, сколько-нибудь, no – никакой, никакая, никакое, никакие, each – каждый (вu отдельности), every – всякий, любой, 
     вопросительные слова whose – чей, которого, what – что, который, как, какой, which – каковой, который, кто, 
     количественные числительные, 
-    если перед существительным стоит другое существительное в притяжательном падеже."
 - Исключения expressions
     at night / at noon / at midnight / all day / all night / all month / every month / every year / last night / last Friday / last week / yesterday / tomorrow
 
@@ -31,9 +30,6 @@
 - перед звуком ю ставится a. Прим a university / a unique
 - a / an когда описываем что это за обьект (даже если упоминался)
 - когда указываем что обьект один из многих таких же??
-- ставится если описывается уже известный предмет
-  - Our teacher gave us a test today. It was a really hard test.
-  - We went to an awful party last night. Ugh, the music was bad, the people were boring, and the food was terrible. I had a terrible time.
 - При обозначении профессии или рода занятий.
 - С некоторыми фразами, когда мы говорим о периодичности действия: 
   - I have my English class twice a week
@@ -53,7 +49,7 @@
   - currencies (the dollar, the euro, the yen)
   - body parts (the head, the eye, the ear)
 - перед name countries like republic/kingdom/states countries with plural names(Philippines, USA, USSR)
-- перед порядковыми существительными "the first", "the second", "the third", "the next", "the last", "the previous", "the following", "the penultimate
+- перед порядковыми прилагательными "the first", "the second", "the third", "the next", "the last", "the previous", "the following", "the penultimate
 - перед прилагательными в превосходной степени "the best", "the biggest", "the most important", "the least interesting", etc.
 - С направлениями, если перед ними стоит какой либо предлог (preposition)
     We need to walk to the south
