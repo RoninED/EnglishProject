@@ -39,14 +39,14 @@ fun main() {
         Question("Перед вопросами (what, whose, which ...)", "no articles"),
         Question("Перед количественные прилагательными (two, three ...)", "no articles"),
         Question("Перед числительными (one, two ...)", "no articles"),
-        Question("Перед at night)", "no articles"),
-        Question("Перед at noon)", "no articles"),
-        Question("Перед at midnight)", "no articles"),
-        Question("Перед all day)", "no articles"),
-        Question("Перед all night)", "no articles"),
-        Question("Перед all month)", "no articles"),
-        Question("Перед yesterday)", "no articles"),
-        Question("Перед tomorrow)", "no articles"),
+        Question("Перед at night", "no articles"),
+        Question("Перед at noon", "no articles"),
+        Question("Перед at midnight", "no articles"),
+        Question("Перед all day", "no articles"),
+        Question("Перед all night", "no articles"),
+        Question("Перед all month", "no articles"),
+        Question("Перед yesterday", "no articles"),
+        Question("Перед tomorrow", "no articles"),
         Question("С именами людей", "no articles"),
         Question("Перед university", "a/an"),
         Question("Перед названием профессии или рода занятий", "a/an"),
@@ -65,12 +65,12 @@ fun main() {
         Question("Перед названиями валют", "the"),
         Question("Перед названиями частей тела", "the"),
         Question("Перед названиями частей тела", "the"),
-        Question("Перед порядковыми прилагательными (the first, the second, the last, the following ...)", "the"),
-        Question("Перед прилагательными в превосходной степени (the best, the biggest)", "the"),
+        Question("Перед порядковыми прилагательными (first, second, last, following ...)", "the"),
+        Question("Перед прилагательными в превосходной степени (best, biggest)", "the"),
         Question("Перед направлениями с предлогами (to ... south, on ... right", "the"),
         Question("Перед направлениями без предлогами (to ... south, on ... right", "the"),
-        Question("Перед частями света (south, north", "the"),
-        Question("Перед фамилией (если речь о семье) (south, north", "the"),
+        Question("Перед частями света (south, north)", "the"),
+        Question("Перед фамилией (если речь о семье)", "the"),
         Question("Перед описательными названиями групп людей \"the blind\", \"the elderly\"", "the"),
         Question("Перед measles", "the"),
         Question("Перед flu", "the"),
@@ -94,13 +94,15 @@ fun main() {
     )
 
 
-
+    var i = 0
     while (true) {
+        i++
         var a = (0 until arr.size).random()
-        print(arr[a].question)
+        print("$i ${arr[a].question}")
         if (readLine() == "s") break
         print(arr[a].answer)
         if (readLine() == "s") break
         println("------------------------------------------------------")
     }
+
 }
