@@ -119,14 +119,6 @@ fun main() {
         Question("... day after tomorrow", "the"),
         Question("С конкретным временем года (the fall)", "the"),
         Question("С не конкретным временем года (fall)", "no articles"),
-        Question("to ... cinema/ theatre", "the"),
-        Question("... cinema", "a/an/the"),
-        Question("... theatre", "a/an/the"),
-        Question("to ... shop", "the"),
-        Question("... shop", "a/an/the"),
-        Question(" ...  market", "a/an/the"),
-        Question("at ... cinema", "the"),
-        Question("at ... shop", "the"),
         Question("Перед названием Столицы", "the")
     )
 
