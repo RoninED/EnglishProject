@@ -147,7 +147,7 @@ fun main() {
         Question("... day", "a/an/the"),
         Question("... day before yesterday", "the"),
         Question("... day after tomorrow", "the"),
-        Question("С конкретным временем года (the fall)", "the"),
+        Question("С конкретным временем года (fall)", "the"),
         Question("С не конкретным временем года (fall)", "no articles"),
         Question("Перед названием Столицы", "the")
     )
