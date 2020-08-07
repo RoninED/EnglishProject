@@ -55,7 +55,7 @@ fun main() {
         Question("... some car", "no articles"),
         Question("Перед вопросами (what, whose, which ...)", "no articles"),
         Question("What ... car", "no articles"),
-        Question("Перед количественные прилагательными (two, three ...)", "a/an/no articles / the"),
+        Question("Перед количественные прилагательными (two, three ...)", "a/an/no articles"),
         Question("... two cars", "no articles / the"),
         Question("Перед цифрами (one, two ...)", "no articles"),
         Question("... one", "no articles"),
