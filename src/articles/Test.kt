@@ -52,9 +52,9 @@ fun main() {
             "Перед неопределенными местоимениями (some, any, each, every ...)",
             "no articles"
         ),
-        Question("... some car", "no articles"),
+        Question("... some car", "Перед неопределенными местоимениями (some, any, each, every ...) no articles"),
         Question("Перед вопросами (what, whose, which ...)", "no articles"),
-        Question("What ... car", "no articles"),
+        Question("What ... car", "Перед вопросами no articles"),
         Question("Перед количественные прилагательными (two, three ...)", "a/an/the"),
         Question("... two cars", "a/an/the"),
         Question("Перед цифрами (one, two ...)", "no articles"),
@@ -95,22 +95,33 @@ fun main() {
             "a/an"
         ),
         Question("Перед unique", "a"),
+
+//        =============================================
         Question(
             "Перед уникальными обьеками, которые могт быть только в одном экземпляре",
             "the"
         ),
         Question("... earth", "the"),
-        Question("Перед названиями не конкретных musical instruments", "the"),
-        Question("... piano", "the"),
+        Question("Перед названиями не конкретных musical instruments", "the \n Перед обобщающими существительными в ед. числе" ),
+        Question("... piano", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
         Question("Перед названиями не конкретных plants", "the"),
-        Question("... rose", "the"),
+        Question("... rose", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
         Question("Перед названиями не конкретных animals", "the"),
-        Question("... dog", "the"),
-        Question("Перед названиями изобритений", "the"),
-        Question("Перед названиями не конкретных валют", "the"),
-        Question("... dollar", "the"),
+        Question("... dog", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
+        Question("Перед названиями изобритений", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
+        Question("Перед названиями не конкретных валют", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
+        Question("... dollar", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
         Question("Перед названиями не конкретных частей тела", "the"),
-        Question("... hand", "the"),
+        Question("... hand", "the \n" +
+                " Перед обобщающими существительными в ед. числе"),
+//        ===================================================
+
         Question(
             "Перед порядковыми прилагательными (first, second, last, following ...)",
             "the"
@@ -118,9 +129,11 @@ fun main() {
         Question("... second car", "the"),
         Question("Перед прилагательными в превосходной степени (best, biggest)", "the"),
         Question("... fastest car", "the"),
+//        =================================================
         Question("Перед направлениями с предлогами (to ... south, on ... right", "the"),
-        Question("on ... right", "the"),
-        Question("to ... south", "the"),
+        Question("on ... right", "the \n Перед направлениями с предлогами (to the south, on the right"),
+        Question("to ... south", "the \n Перед направлениями с предлогами (to the south, on the right"),
+//        =================================================
         Question("Перед направлениями без предлога (... south, ... right", "no articles"),
         Question("без предлога ... right", "no articles"),
         Question("без предлога ... south", "no articles"),
@@ -145,8 +158,10 @@ fun main() {
         Question("... night", "a/an/the"),
         Question("during ... day", "the"),
         Question("... day", "a/an/the"),
-        Question("... day before yesterday", "the"),
-        Question("... day after tomorrow", "the"),
+
+        Question("... day before yesterday", "the - Исключения expressions"),
+        Question("... day after tomorrow", "the - Исключения expressions"),
+
         Question("С конкретным временем года (fall)", "the"),
         Question("С не конкретным временем года (fall)", "no articles"),
         Question("Перед названием Столицы", "the")
