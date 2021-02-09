@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "question1",
+      "false": ["falseAnswer1_1", "falseAnswer1_2", "falseAnswer1_3"],
+      "true": "trueAnswer1",
+      "descriptionRule": "descriptionText1"
+    },
+    {
+      "question": "question2",
+      "false": ["falseAnswer2_1", "falseAnswer2_2", "falseAnswer2_3"],
+      "true": "trueAnswer2",
+      "descriptionRule": "descriptionText2"
+    }
+  ]
+}
